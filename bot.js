@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Brodcast Bot ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$bc |DF_Team`,"http://twitch.tv/Death Shop")
+client.user.setGame(`✹【 𝐀𝐑𝐀𝐁 𝐋𝐈𝐎𝐍𝐒 𝐕𝐑𝐏╎أسـود الـعرب 】`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
