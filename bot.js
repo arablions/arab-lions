@@ -154,7 +154,6 @@ client.on("message", async message => {
             دعوة البوت لسيرفرك : ${prefix}invite
             معلومات عن السيرفر : ${prefix}server
             برودكاست للأونلاين فقط : ${prefix}bco
-            يعرض لك عدد المتبندين من سيرفرك : ${prefix}banned
             **`);
             message.channel.sendEmbed(help); // رابط السيرفر يعود الى سيرفر CODES .
     }
